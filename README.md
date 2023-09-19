@@ -1,3 +1,2 @@
-# snake Ett gammalt traditionelt spel.
-
-Skaped med python modulen turtle.
+# Snake game.
+Python turtle.
